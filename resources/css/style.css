@@ -10,8 +10,19 @@ h1 {
     color: white;
 }
 
-h3 {
+h2 {
     color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+}
+
+.c-excursion {
+    text-align: right;
 }
 
 a {
